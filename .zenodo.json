@@ -1,0 +1,17 @@
+{
+  "upload_type": "dataset",
+  "title": "The B2B SaaS AI Visibility Benchmark 2026",
+  "version": "1.4",
+  "publication_date": "2026-10-12",
+  "creators": [
+    {"name": "Wamiq, Hamza", "affiliation": "Citant.ai"}
+  ],
+  "description": "<p>Which B2B SaaS brands do AI answer engines name when a buyer asks for software? 94 brand entries (93 companies) across five G2 categories, 50 buying questions frozen before collection, five AI platforms (ChatGPT, Claude, Perplexity, Google Gemini, Google AI Overviews), September 2026.</p><p>Headline: 32 of 94 brands (34%) were named on none of the five platforms. Of 940 domains consulted by ChatGPT, Claude and Perplexity on identical questions, 71.6% were consulted by exactly one engine.</p><p>Version 1.4 recounts every Claude and Perplexity named count by hand on the answer text: the earlier transcript counter skipped paragraphs that carried citation links and counted source-card labels. Claude 46 to 45 and Perplexity 52 to 46 brands named at least once; ChatGPT unchanged at 39; the never-named group moves from 30 to 32 of 94.</p><p>Files: queries, per-brand results, per-question source overlap, summary metrics, cited domains, per-engine tracker figures, common-word adjudication, the Claude and Perplexity recount and a data dictionary. Full report and method: https://citant.ai/research/b2b-saas-ai-visibility-benchmark-2026/</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": ["AI visibility", "AI search", "generative engine optimization", "B2B SaaS", "ChatGPT", "Perplexity", "Claude", "Google AI Overviews", "LLM evaluation"],
+  "related_identifiers": [
+    {"identifier": "https://citant.ai/research/b2b-saas-ai-visibility-benchmark-2026/", "relation": "isDocumentedBy", "resource_type": "publication-report"}
+  ],
+  "language": "eng"
+}

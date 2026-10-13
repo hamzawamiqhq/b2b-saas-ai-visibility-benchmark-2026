@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "The B2B SaaS AI Visibility Benchmark 2026"
+version: "1.4"
+date-released: "2026-10-12"
+license: CC-BY-4.0
+url: "https://citant.ai/research/b2b-saas-ai-visibility-benchmark-2026/"
+authors:
+  - name: "Citant.ai"
+    website: "https://citant.ai"
+  - family-names: "Wamiq"
+    given-names: "Hamza"
+    affiliation: "Citant.ai"
+keywords:
+  - AI visibility
+  - AI search
+  - generative engine optimization
+  - B2B SaaS
+  - ChatGPT
+  - Perplexity
+  - Claude
+abstract: >-
+  Per-brand AI answer visibility for 94 B2B SaaS brand entries (93 companies) on 50 buying questions across five G2
+  categories: named counts on ChatGPT, Claude and Perplexity (manual runs, September 4 to 9, 2026; Claude and Perplexity
+  recounted by hand on the answer text in v1.4), ChatGPT own-site retrieval and citation, AI Access Scores, repeated-run
+  tracker figures for ChatGPT, Google Gemini and Google AI Overviews (September 7, 2026; the zero-mention test also checks
+  every tracker run through September 14), per-question cross-engine source overlap, cited domains by category and summary metrics.
