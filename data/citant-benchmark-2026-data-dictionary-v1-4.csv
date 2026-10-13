@@ -1,0 +1,41 @@
+file,column,meaning
+all files,,"The B2B SaaS AI Visibility Benchmark 2026 by Citant.ai, dataset v1.4 (2026-10-12). License CC BY 4.0. v1.4 changes results-aggregate, summary-metrics and adjudication and adds claude-perplexity-recount; the other files are unchanged from v1.3. Report: https://citant.ai/research/b2b-saas-ai-visibility-benchmark-2026/"
+queries,query_id,"Question id P01 to P50, 10 per category, frozen before collection."
+queries,category,G2 category the question belongs to.
+queries,query_text,Question exactly as pasted into each platform.
+results-aggregate,(row),"One brand per category: 94 rows, 93 companies (HubSpot is tracked in Sales Engagement and Help Desk)."
+results-aggregate,website,"Registrable host of the brand's site, lowercase, without www."
+results-aggregate,listing_tier,"Leader, Challenger or Small: listing-position label from the September 2-3 sampling sheet. Not company size and not G2 Grid placement."
+results-aggregate,g2_reviews_total,Vendor's total G2 review count recorded at analysis.
+results-aggregate,chatgpt_named_questions,"Of the category's 10 questions, how many ChatGPT answers (web search on, single run, September 4 2026) named the brand. Whole-word name, alias or domain match; common-word names hand-read."
+results-aggregate,claude_named_questions,"Same, Claude, single manual run, September 4-9 2026. v1.4: recounted on the answer text only, each match checked in its sentence, common-word names and table cells that the transcript copy glued to the next word read by hand; a brand that appears only in a source card or a citation link is not counted (see claude-perplexity-recount)."
+results-aggregate,perplexity_named_questions,"Same, Perplexity, single manual run, September 4-9 2026. v1.4: recounted on the answer text only, each match checked in its sentence, common-word names and table cells that the transcript copy glued to the next word read by hand; a brand that appears only in a source card or a citation link is not counted (see claude-perplexity-recount)."
+results-aggregate,chatgpt_own_site_retrieved_questions,"Of the 10 questions, how many times a brand-owned domain (website or domain-shaped alias) appeared in ChatGPT's search results for that question."
+results-aggregate,chatgpt_own_site_cited_questions,"Of the 10 questions, how many times a brand-owned domain was cited in ChatGPT's final answer."
+results-aggregate,ai_access_score_2026_09_26,AI Access Score 0-100 from Citant's AI Crawler Access Report on the corrected September 26 rescan; blank = site could not be scored. Used in the report.
+results-aggregate,ai_access_score_2026_09_05,"Same, original September 5 scan, before a scanner correction (identity-verifying firewalls had been read as blocks). Kept for transparency."
+results-aggregate,common_word_name,yes = brand name is a common word; bare-word mentions were read by hand and counted only where they refer to the company.
+results-aggregate,named_counts_changed_by_hand_read,yes = the hand read changed at least one named count in v1.1 (see adjudication file).
+results-aggregate,tracking_visibility_in_category,"Share of tracked chats in the brand's OWN category that mention it, ChatGPT + Google Gemini + Google AI Overviews combined, September 7 2026 sample (0-1). v1.2 divided by all chats of a two-category tracking project (about 2x too low for Project Management, Sales Engagement, Help Desk and Core HR). Text matching runs high for common-word names."
+results-aggregate,tracker_mentions_in_category_sep7_14,"Tracker chats mentioning the brand in its own category across every run held, September 7-14 2026, after hand reads (see tracker-hand-reads). Zero here is the tracker half of the five-platform test."
+results-aggregate,tracking_status,How to read the two tracker columns.
+results-aggregate,named_by_none_of_3_manual,"yes = named on none of its 10 questions by ChatGPT, Claude or Perplexity."
+results-aggregate,named_on_none_of_5_platforms,"yes = named by none of the 3 manual engines AND zero tracker mentions in the brand's own category across every tracker run held (September 7-14 2026, Gemini, AI Overviews and repeated ChatGPT; common-word hits read by hand). The report's headline (32 of 94 in v1.4, 30 of 94 in v1.3). v1.3 changed its members: Smartsheet and Lusha were named in category on Sept 8-14 and leave; SAP (its only hit was a Core HR answer) and Backlog (common-word hits only) join. v1.4 adds Native Teams and morningmate: their only Perplexity hit was a source card or citation link."
+overlap-per-prompt,(row),One per question. Consulted = domains that surfaced while each engine researched (ChatGPT search results; Claude and Perplexity source lists).
+overlap-per-prompt,claude_listed_web_sources,no = Claude answered this question without listing any web source; it counts as consulting zero domains (7 of 50 questions).
+overlap-per-prompt,jaccard_*,Jaccard similarity of registrable domains between engines for that question.
+overlap-per-prompt,union_domains,Distinct registrable domains consulted by any engine on that question.
+overlap-per-prompt,on_exactly_one / on_exactly_two / on_all_present,"Of union_domains, how many were consulted by exactly one, exactly two, or all engines that listed sources for that question. Per-question counts; the report's 940 / 673 / 189 / 78 are distinct domains across all 50 questions, so these columns do not sum to them."
+overlap-per-prompt,*_pages / page_*,Page-level (host + path) counts and Jaccard where both engines carried page URLs; blank where not available.
+summary-metrics,(row),"Every aggregate in the report as num / den, with engine, layer and category."
+summary-metrics,source type share,"Classes: own vendor = a tracked brand's domain; review UGC = g2.com, capterra.com, reddit.com, youtube.com, trustradius.com; editorial = forbes.com, techrepublic.com; institutional = .org/.edu; all other domains = everything else (untracked vendors, blogs, directories, listicles, other publishers). Unit: distinct question-domain incidences."
+cited-domains,(row),"Third-party domains ChatGPT cited or retrieved per category, with the number of the category's 10 questions. Tracked vendors' own domains (including aliases) excluded; untracked vendors can appear. Values are hosts as they appeared (e.g. learn.g2.com, owasp subdomains), not merged to registrable domains."
+tracker-per-engine,(row),"Repeated-run figures from the tracking platform, one row per brand x own category x engine (ChatGPT, Gemini, AI Overview), all 94 brand entries. Sample: September 7 2026, 3 runs of each question per engine (about 30 chats per engine per category). Chats where the platform stored no answer are excluded (AI Overviews keeps 18 of 30 in Help Desk, 28 in Core HR and 29 in Sales Engagement; every other cell keeps 30)."
+tracker-per-engine,chats_in_category,Tracked chats with an answer for that category and engine on September 7 (the denominator).
+tracker-per-engine,chats_mentioning_brand,"Of those chats, how many mention the brand (the numerator)."
+tracker-per-engine,visibility_in_category,chats_mentioning_brand / chats_in_category (0-1).
+tracker-per-engine,avg_position_when_mentioned,Average list position of the brand in the chats that mention it.
+tracker-per-engine,sentiment_project_level,"Platform sentiment score 0-100 for that engine, computed by the platform at project level over the brand's mentions; blank where the project was exported blended across engines or the brand had no mentions. Noisy for brands with few mentions."
+tracker-hand-reads,(row),"One row per tracker chat whose brand hit was read by hand and excluded (brand, category, date, engine, chat id, decision)."
+adjudication,(row),"One per common-word brand and engine: named counts before and after the v1.1 hand read, with the question ids counted after."
+claude-perplexity-recount,(row),"One row per brand entry x engine (Claude, Perplexity): named question count in v1.3 and v1.4 and the v1.4 question ids. v1.4 counts a brand only where its name, domain or alias is in the answer text; source cards, citation links and the pasted question do not count; common-word names read by hand."

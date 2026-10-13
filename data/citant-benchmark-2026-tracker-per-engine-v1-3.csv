@@ -1,0 +1,283 @@
+category,brand,engine,chats_in_category,chats_mentioning_brand,visibility_in_category,avg_position_when_mentioned,sentiment_project_level,common_word_name
+Project Management,Atlassian,ChatGPT,30,25,0.8333,2.2,55,no
+Project Management,Atlassian,Gemini,30,24,0.8000,2.0,62,no
+Project Management,Atlassian,AI Overview,30,24,0.8000,2.0,70,no
+Project Management,Asana,ChatGPT,30,28,0.9333,3.5,55,no
+Project Management,Asana,Gemini,30,22,0.7333,2.9,62,no
+Project Management,Asana,AI Overview,30,19,0.6333,2.9,73,no
+Project Management,Adobe Workfront,ChatGPT,30,0,0.0000,,,no
+Project Management,Adobe Workfront,Gemini,30,0,0.0000,,,no
+Project Management,Adobe Workfront,AI Overview,30,0,0.0000,,,no
+Project Management,Smartsheet,ChatGPT,30,0,0.0000,,,no
+Project Management,Smartsheet,Gemini,30,0,0.0000,,,no
+Project Management,Smartsheet,AI Overview,30,0,0.0000,,,no
+Project Management,monday.com,ChatGPT,30,16,0.5333,3.8,57,yes
+Project Management,monday.com,Gemini,30,15,0.5000,3.0,64,yes
+Project Management,monday.com,AI Overview,30,18,0.6000,2.6,75,yes
+Project Management,ClickUp,ChatGPT,30,27,0.9000,2.9,57,no
+Project Management,ClickUp,Gemini,30,23,0.7667,3.1,64,no
+Project Management,ClickUp,AI Overview,30,21,0.7000,2.6,75,no
+Project Management,Notion,ChatGPT,30,15,0.5000,4.4,53,yes
+Project Management,Notion,Gemini,30,10,0.3333,3.7,66,yes
+Project Management,Notion,AI Overview,30,10,0.3333,4.1,70,yes
+Project Management,Airtable,ChatGPT,30,0,0.0000,,,no
+Project Management,Airtable,Gemini,30,0,0.0000,,,no
+Project Management,Airtable,AI Overview,30,0,0.0000,,,no
+Project Management,Quickbase,ChatGPT,30,0,0.0000,,,no
+Project Management,Quickbase,Gemini,30,0,0.0000,,,no
+Project Management,Quickbase,AI Overview,30,0,0.0000,,,no
+Project Management,Wrike,ChatGPT,30,2,0.0667,5.0,48,no
+Project Management,Wrike,Gemini,30,4,0.1333,4.2,73,no
+Project Management,Wrike,AI Overview,30,2,0.0667,5.5,78,no
+Project Management,Celoxis,ChatGPT,30,0,0.0000,,,no
+Project Management,Celoxis,Gemini,30,0,0.0000,,,no
+Project Management,Celoxis,AI Overview,30,1,0.0333,5.0,64,no
+Project Management,Zoho,ChatGPT,30,0,0.0000,,,no
+Project Management,Zoho,Gemini,30,1,0.0333,5.0,71,no
+Project Management,Zoho,AI Overview,30,2,0.0667,2.5,75,no
+Project Management,Basecamp,ChatGPT,30,9,0.3000,4.8,55,no
+Project Management,Basecamp,Gemini,30,4,0.1333,4.5,45,no
+Project Management,Basecamp,AI Overview,30,5,0.1667,4.4,78,no
+Project Management,Linear,ChatGPT,30,21,0.7000,2.5,57,yes
+Project Management,Linear,Gemini,30,16,0.5333,2.2,66,yes
+Project Management,Linear,AI Overview,30,10,0.3333,2.0,71,yes
+Project Management,Backlog,ChatGPT,30,0,0.0000,,,yes
+Project Management,Backlog,Gemini,30,0,0.0000,,,yes
+Project Management,Backlog,AI Overview,30,0,0.0000,,,yes
+Project Management,Teamwork,ChatGPT,30,4,0.1333,2.8,58,yes
+Project Management,Teamwork,Gemini,30,3,0.1000,1.3,65,yes
+Project Management,Teamwork,AI Overview,30,3,0.1000,1.0,74,yes
+Project Management,Snovasys,ChatGPT,30,0,0.0000,,,no
+Project Management,Snovasys,Gemini,30,0,0.0000,,,no
+Project Management,Snovasys,AI Overview,30,0,0.0000,,,no
+Project Management,Float,ChatGPT,30,0,0.0000,,,yes
+Project Management,Float,Gemini,30,0,0.0000,,,yes
+Project Management,Float,AI Overview,30,0,0.0000,,,yes
+Project Management,Scoro,ChatGPT,30,0,0.0000,,,no
+Project Management,Scoro,Gemini,30,1,0.0333,1.0,63,no
+Project Management,Scoro,AI Overview,30,3,0.1000,2.0,74,no
+Project Management,morningmate,ChatGPT,30,0,0.0000,,,no
+Project Management,morningmate,Gemini,30,0,0.0000,,,no
+Project Management,morningmate,AI Overview,30,0,0.0000,,,no
+Sales Engagement,HubSpot,ChatGPT,30,20,0.6667,2.9,59,no
+Sales Engagement,HubSpot,Gemini,30,19,0.6333,2.9,63,no
+Sales Engagement,HubSpot,AI Overview,29,19,0.6552,3.2,70,no
+Sales Engagement,Salesforce,ChatGPT,30,12,0.4000,3.9,64,no
+Sales Engagement,Salesforce,Gemini,30,9,0.3000,3.9,54,no
+Sales Engagement,Salesforce,AI Overview,29,11,0.3793,4.7,57,no
+Sales Engagement,Apollo.io,ChatGPT,30,26,0.8667,2.0,54,no
+Sales Engagement,Apollo.io,Gemini,30,26,0.8667,2.3,62,no
+Sales Engagement,Apollo.io,AI Overview,29,25,0.8621,1.9,77,no
+Sales Engagement,lemlist,ChatGPT,30,6,0.2000,4.3,49,no
+Sales Engagement,lemlist,Gemini,30,8,0.2667,4.4,68,no
+Sales Engagement,lemlist,AI Overview,29,9,0.3103,3.3,76,no
+Sales Engagement,ZoomInfo,ChatGPT,30,3,0.1000,3.0,52,no
+Sales Engagement,ZoomInfo,Gemini,30,10,0.3333,3.4,54,no
+Sales Engagement,ZoomInfo,AI Overview,29,6,0.2069,3.3,73,no
+Sales Engagement,Gong,ChatGPT,30,2,0.0667,5.5,54,no
+Sales Engagement,Gong,Gemini,30,2,0.0667,6.0,66,no
+Sales Engagement,Gong,AI Overview,29,0,0.0000,,,no
+Sales Engagement,Nooks,ChatGPT,30,0,0.0000,,,no
+Sales Engagement,Nooks,Gemini,30,0,0.0000,,,no
+Sales Engagement,Nooks,AI Overview,29,1,0.0345,5.0,,no
+Sales Engagement,Instantly,ChatGPT,30,14,0.4667,3.5,54,yes
+Sales Engagement,Instantly,Gemini,30,14,0.4667,3.8,59,yes
+Sales Engagement,Instantly,AI Overview,29,10,0.3448,3.1,74,yes
+Sales Engagement,Close,ChatGPT,30,2,0.0667,2.5,,yes
+Sales Engagement,Close,Gemini,30,3,0.1000,5.0,57,yes
+Sales Engagement,Close,AI Overview,29,0,0.0000,,,yes
+Sales Engagement,Salesloft,ChatGPT,30,22,0.7333,3.0,54,no
+Sales Engagement,Salesloft,Gemini,30,19,0.6333,3.2,62,no
+Sales Engagement,Salesloft,AI Overview,29,12,0.4138,3.2,64,no
+Sales Engagement,Amplemarket,ChatGPT,30,0,0.0000,,,no
+Sales Engagement,Amplemarket,Gemini,30,4,0.1333,4.0,79,no
+Sales Engagement,Amplemarket,AI Overview,29,3,0.1034,1.0,77,no
+Sales Engagement,ActiveCampaign,ChatGPT,30,0,0.0000,,,no
+Sales Engagement,ActiveCampaign,Gemini,30,0,0.0000,,,no
+Sales Engagement,ActiveCampaign,AI Overview,29,1,0.0345,6.0,60,no
+Sales Engagement,Seismic,ChatGPT,30,0,0.0000,,,yes
+Sales Engagement,Seismic,Gemini,30,0,0.0000,,,yes
+Sales Engagement,Seismic,AI Overview,29,0,0.0000,,,yes
+Sales Engagement,Outreach,ChatGPT,30,26,0.8667,2.7,57,yes
+Sales Engagement,Outreach,Gemini,30,27,0.9000,2.0,60,yes
+Sales Engagement,Outreach,AI Overview,29,28,0.9655,2.2,64,yes
+Sales Engagement,GetAccept,ChatGPT,30,0,0.0000,,,no
+Sales Engagement,GetAccept,Gemini,30,0,0.0000,,,no
+Sales Engagement,GetAccept,AI Overview,29,0,0.0000,,,no
+Sales Engagement,Saleshandy,ChatGPT,30,1,0.0333,2.0,64,no
+Sales Engagement,Saleshandy,Gemini,30,1,0.0333,3.0,72,no
+Sales Engagement,Saleshandy,AI Overview,29,0,0.0000,,,no
+Sales Engagement,VanillaSoft,ChatGPT,30,0,0.0000,,,no
+Sales Engagement,VanillaSoft,Gemini,30,0,0.0000,,,no
+Sales Engagement,VanillaSoft,AI Overview,29,0,0.0000,,,no
+Sales Engagement,Revenue Grid,ChatGPT,30,0,0.0000,,,no
+Sales Engagement,Revenue Grid,Gemini,30,0,0.0000,,,no
+Sales Engagement,Revenue Grid,AI Overview,29,0,0.0000,,,no
+Sales Engagement,Lusha,ChatGPT,30,0,0.0000,,,no
+Sales Engagement,Lusha,Gemini,30,0,0.0000,,,no
+Sales Engagement,Lusha,AI Overview,29,0,0.0000,,,no
+Sales Engagement,Salestarget,ChatGPT,30,0,0.0000,,,no
+Sales Engagement,Salestarget,Gemini,30,0,0.0000,,,no
+Sales Engagement,Salestarget,AI Overview,29,0,0.0000,,,no
+Help Desk,Zendesk,ChatGPT,30,26,0.8667,2.0,,no
+Help Desk,Zendesk,Gemini,30,22,0.7333,2.0,,no
+Help Desk,Zendesk,AI Overview,18,8,0.4444,1.9,,no
+Help Desk,Freshworks,ChatGPT,30,20,0.6667,2.0,,no
+Help Desk,Freshworks,Gemini,30,21,0.7000,2.0,,no
+Help Desk,Freshworks,AI Overview,18,15,0.8333,1.2,,no
+Help Desk,HubSpot,ChatGPT,30,7,0.2333,4.4,,no
+Help Desk,HubSpot,Gemini,30,7,0.2333,2.7,,no
+Help Desk,HubSpot,AI Overview,18,2,0.1111,2.0,,no
+Help Desk,ServiceNow,ChatGPT,30,0,0.0000,,,no
+Help Desk,ServiceNow,Gemini,30,0,0.0000,,,no
+Help Desk,ServiceNow,AI Overview,18,0,0.0000,,,no
+Help Desk,Intercom,ChatGPT,30,27,0.9000,1.5,,no
+Help Desk,Intercom,Gemini,30,19,0.6333,1.9,,no
+Help Desk,Intercom,AI Overview,18,11,0.6111,2.0,,no
+Help Desk,Atera,ChatGPT,30,0,0.0000,,,no
+Help Desk,Atera,Gemini,30,0,0.0000,,,no
+Help Desk,Atera,AI Overview,18,0,0.0000,,,no
+Help Desk,Syncfusion,ChatGPT,30,0,0.0000,,,no
+Help Desk,Syncfusion,Gemini,30,0,0.0000,,,no
+Help Desk,Syncfusion,AI Overview,18,1,0.0556,2.0,,no
+Help Desk,Front,ChatGPT,30,11,0.3667,3.7,,yes
+Help Desk,Front,Gemini,30,4,0.1333,2.0,,yes
+Help Desk,Front,AI Overview,18,3,0.1667,4.0,,yes
+Help Desk,Kustomer,ChatGPT,30,0,0.0000,,,no
+Help Desk,Kustomer,Gemini,30,2,0.0667,4.0,,no
+Help Desk,Kustomer,AI Overview,18,0,0.0000,,,no
+Help Desk,Sprinklr,ChatGPT,30,0,0.0000,,,no
+Help Desk,Sprinklr,Gemini,30,0,0.0000,,,no
+Help Desk,Sprinklr,AI Overview,18,0,0.0000,,,no
+Help Desk,Gorgias,ChatGPT,30,9,0.3000,4.3,,no
+Help Desk,Gorgias,Gemini,30,2,0.0667,5.0,,no
+Help Desk,Gorgias,AI Overview,18,0,0.0000,,,no
+Help Desk,Gladly,ChatGPT,30,0,0.0000,,,yes
+Help Desk,Gladly,Gemini,30,0,0.0000,,,yes
+Help Desk,Gladly,AI Overview,18,0,0.0000,,,yes
+Help Desk,Connecteam,ChatGPT,30,0,0.0000,,,no
+Help Desk,Connecteam,Gemini,30,0,0.0000,,,no
+Help Desk,Connecteam,AI Overview,18,0,0.0000,,,no
+Help Desk,SAP,ChatGPT,30,0,0.0000,,,yes
+Help Desk,SAP,Gemini,30,0,0.0000,,,yes
+Help Desk,SAP,AI Overview,18,0,0.0000,,,yes
+Help Desk,SysAid,ChatGPT,30,0,0.0000,,,no
+Help Desk,SysAid,Gemini,30,0,0.0000,,,no
+Help Desk,SysAid,AI Overview,18,0,0.0000,,,no
+Help Desk,EngageBay,ChatGPT,30,0,0.0000,,,no
+Help Desk,EngageBay,Gemini,30,0,0.0000,,,no
+Help Desk,EngageBay,AI Overview,18,0,0.0000,,,no
+Help Desk,RingCentral,ChatGPT,30,0,0.0000,,,no
+Help Desk,RingCentral,Gemini,30,0,0.0000,,,no
+Help Desk,RingCentral,AI Overview,18,0,0.0000,,,no
+Help Desk,Capacity,ChatGPT,30,0,0.0000,,,yes
+Help Desk,Capacity,Gemini,30,0,0.0000,,,yes
+Help Desk,Capacity,AI Overview,18,0,0.0000,,,yes
+Core HR,ADP,ChatGPT,30,3,0.1000,4.7,,no
+Core HR,ADP,Gemini,30,1,0.0333,4.0,,no
+Core HR,ADP,AI Overview,28,0,0.0000,,,no
+Core HR,Rippling,ChatGPT,30,28,0.9333,2.6,,no
+Core HR,Rippling,Gemini,30,26,0.8667,2.5,,no
+Core HR,Rippling,AI Overview,28,25,0.8929,2.8,,no
+Core HR,BambooHR,ChatGPT,30,20,0.6667,2.2,,no
+Core HR,BambooHR,Gemini,30,20,0.6667,3.0,,no
+Core HR,BambooHR,AI Overview,28,18,0.6429,2.5,,no
+Core HR,TriNet,ChatGPT,30,0,0.0000,,,no
+Core HR,TriNet,Gemini,30,0,0.0000,,,no
+Core HR,TriNet,AI Overview,28,3,0.1071,5.0,,no
+Core HR,Paylocity,ChatGPT,30,0,0.0000,,,no
+Core HR,Paylocity,Gemini,30,0,0.0000,,,no
+Core HR,Paylocity,AI Overview,28,1,0.0357,6.0,,no
+Core HR,Gusto,ChatGPT,30,24,0.8000,1.7,,no
+Core HR,Gusto,Gemini,30,27,0.9000,1.7,,no
+Core HR,Gusto,AI Overview,28,25,0.8929,1.5,,no
+Core HR,HiBob,ChatGPT,30,7,0.2333,5.4,,no
+Core HR,HiBob,Gemini,30,6,0.2000,4.8,,no
+Core HR,HiBob,AI Overview,28,9,0.3214,5.0,,no
+Core HR,Keka,ChatGPT,30,0,0.0000,,,no
+Core HR,Keka,Gemini,30,0,0.0000,,,no
+Core HR,Keka,AI Overview,28,0,0.0000,,,no
+Core HR,Deel,ChatGPT,30,21,0.7000,3.5,,no
+Core HR,Deel,Gemini,30,15,0.5000,3.2,,no
+Core HR,Deel,AI Overview,28,19,0.6786,3.3,,no
+Core HR,HROne,ChatGPT,30,0,0.0000,,,no
+Core HR,HROne,Gemini,30,0,0.0000,,,no
+Core HR,HROne,AI Overview,28,0,0.0000,,,no
+Core HR,Workday,ChatGPT,30,2,0.0667,7.0,,yes
+Core HR,Workday,Gemini,30,0,0.0000,,,yes
+Core HR,Workday,AI Overview,28,0,0.0000,,,yes
+Core HR,UKG,ChatGPT,30,0,0.0000,,,no
+Core HR,UKG,Gemini,30,0,0.0000,,,no
+Core HR,UKG,AI Overview,28,0,0.0000,,,no
+Core HR,greytHR,ChatGPT,30,0,0.0000,,,no
+Core HR,greytHR,Gemini,30,0,0.0000,,,no
+Core HR,greytHR,AI Overview,28,0,0.0000,,,no
+Core HR,Remote,ChatGPT,30,18,0.6000,3.8,,yes
+Core HR,Remote,Gemini,30,20,0.6667,3.5,,yes
+Core HR,Remote,AI Overview,28,18,0.6429,3.6,,yes
+Core HR,Personio,ChatGPT,30,0,0.0000,,,no
+Core HR,Personio,Gemini,30,1,0.0333,7.0,,no
+Core HR,Personio,AI Overview,28,0,0.0000,,,no
+Core HR,Justworks,ChatGPT,30,11,0.3667,4.3,,no
+Core HR,Justworks,Gemini,30,7,0.2333,4.7,,no
+Core HR,Justworks,AI Overview,28,3,0.1071,5.0,,no
+Core HR,Native Teams,ChatGPT,30,0,0.0000,,,no
+Core HR,Native Teams,Gemini,30,0,0.0000,,,no
+Core HR,Native Teams,AI Overview,28,0,0.0000,,,no
+Vulnerability Scanner,Wiz,ChatGPT,30,10,0.3333,2.0,55,yes
+Vulnerability Scanner,Wiz,Gemini,30,10,0.3333,2.0,64,yes
+Vulnerability Scanner,Wiz,AI Overview,30,10,0.3333,2.1,75,yes
+Vulnerability Scanner,Aikido Security,ChatGPT,30,1,0.0333,2.0,47,no
+Vulnerability Scanner,Aikido Security,Gemini,30,8,0.2667,1.6,58,no
+Vulnerability Scanner,Aikido Security,AI Overview,30,13,0.4333,1.6,74,no
+Vulnerability Scanner,CrowdStrike,ChatGPT,30,1,0.0333,2.0,58,no
+Vulnerability Scanner,CrowdStrike,Gemini,30,1,0.0333,5.0,67,no
+Vulnerability Scanner,CrowdStrike,AI Overview,30,1,0.0333,1.0,59,no
+Vulnerability Scanner,Orca Security,ChatGPT,30,7,0.2333,2.9,46,no
+Vulnerability Scanner,Orca Security,Gemini,30,10,0.3333,3.1,64,no
+Vulnerability Scanner,Orca Security,AI Overview,30,4,0.1333,2.5,71,no
+Vulnerability Scanner,Tenable,ChatGPT,30,13,0.4333,1.2,55,no
+Vulnerability Scanner,Tenable,Gemini,30,15,0.5000,1.7,61,no
+Vulnerability Scanner,Tenable,AI Overview,30,17,0.5667,1.5,67,no
+Vulnerability Scanner,Astra Security,ChatGPT,30,0,0.0000,,,no
+Vulnerability Scanner,Astra Security,Gemini,30,1,0.0333,2.0,72,no
+Vulnerability Scanner,Astra Security,AI Overview,30,0,0.0000,,,no
+Vulnerability Scanner,Intruder,ChatGPT,30,15,0.5000,1.3,54,yes
+Vulnerability Scanner,Intruder,Gemini,30,20,0.6667,1.8,60,yes
+Vulnerability Scanner,Intruder,AI Overview,30,16,0.5333,2.1,69,yes
+Vulnerability Scanner,PortSwigger,ChatGPT,30,1,0.0333,5.0,53,no
+Vulnerability Scanner,PortSwigger,Gemini,30,1,0.0333,4.0,79,no
+Vulnerability Scanner,PortSwigger,AI Overview,30,1,0.0333,4.0,58,no
+Vulnerability Scanner,Sysdig,ChatGPT,30,1,0.0333,4.0,54,no
+Vulnerability Scanner,Sysdig,Gemini,30,0,0.0000,,,no
+Vulnerability Scanner,Sysdig,AI Overview,30,1,0.0333,3.0,77,no
+Vulnerability Scanner,SentinelOne,ChatGPT,30,0,0.0000,,,no
+Vulnerability Scanner,SentinelOne,Gemini,30,0,0.0000,,,no
+Vulnerability Scanner,SentinelOne,AI Overview,30,0,0.0000,,,no
+Vulnerability Scanner,Pentera,ChatGPT,30,0,0.0000,,,no
+Vulnerability Scanner,Pentera,Gemini,30,0,0.0000,,,no
+Vulnerability Scanner,Pentera,AI Overview,30,0,0.0000,,,no
+Vulnerability Scanner,CyberSmart,ChatGPT,30,0,0.0000,,,no
+Vulnerability Scanner,CyberSmart,Gemini,30,0,0.0000,,,no
+Vulnerability Scanner,CyberSmart,AI Overview,30,0,0.0000,,,no
+Vulnerability Scanner,Edgescan,ChatGPT,30,0,0.0000,,,no
+Vulnerability Scanner,Edgescan,Gemini,30,0,0.0000,,,no
+Vulnerability Scanner,Edgescan,AI Overview,30,0,0.0000,,,no
+Vulnerability Scanner,Mend,ChatGPT,30,0,0.0000,,,yes
+Vulnerability Scanner,Mend,Gemini,30,0,0.0000,,,yes
+Vulnerability Scanner,Mend,AI Overview,30,0,0.0000,,,yes
+Vulnerability Scanner,Harness,ChatGPT,30,0,0.0000,,,yes
+Vulnerability Scanner,Harness,Gemini,30,0,0.0000,,,yes
+Vulnerability Scanner,Harness,AI Overview,30,0,0.0000,,,yes
+Vulnerability Scanner,Bitsight,ChatGPT,30,0,0.0000,,,no
+Vulnerability Scanner,Bitsight,Gemini,30,0,0.0000,,,no
+Vulnerability Scanner,Bitsight,AI Overview,30,0,0.0000,,,no
+Vulnerability Scanner,Pentest-Tools.com,ChatGPT,30,0,0.0000,,,no
+Vulnerability Scanner,Pentest-Tools.com,Gemini,30,1,0.0333,3.0,74,no
+Vulnerability Scanner,Pentest-Tools.com,AI Overview,30,0,0.0000,,,no
+Vulnerability Scanner,Indusface,ChatGPT,30,0,0.0000,,,no
+Vulnerability Scanner,Indusface,Gemini,30,0,0.0000,,,no
+Vulnerability Scanner,Indusface,AI Overview,30,0,0.0000,,,no
+Vulnerability Scanner,Red Hat,ChatGPT,30,0,0.0000,,,no
+Vulnerability Scanner,Red Hat,Gemini,30,0,0.0000,,,no
+Vulnerability Scanner,Red Hat,AI Overview,30,0,0.0000,,,no

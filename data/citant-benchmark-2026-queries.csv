@@ -1,0 +1,51 @@
+﻿query_id,category,query_text
+P01,Project Management,Best project management software for a 50-person software company
+P02,Project Management,Best project management tool for startups
+P03,Project Management,Asana alternatives for small teams
+P04,Project Management,Jira alternatives for startups
+P05,Project Management,Which project management tool is best for remote engineering teams
+P06,Project Management,Project management software with the best free plan for startups
+P07,Project Management,Is monday.com worth it for a small business
+P08,Project Management,Simplest project management app for non-technical teams
+P09,Project Management,Best project management software for agencies managing client work
+P10,Project Management,How do I choose a project management tool for a growing SaaS team
+P11,Sales Engagement,Best sales engagement platform for a Series A SaaS startup
+P12,Sales Engagement,Best sales engagement software for small B2B sales teams
+P13,Sales Engagement,Outreach alternatives for startups
+P14,Sales Engagement,Salesloft vs Outreach for a 10-person sales team
+P15,Sales Engagement,Which sales engagement tool has the best email deliverability
+P16,Sales Engagement,Affordable sales engagement platform for SDR teams under 10 people
+P17,Sales Engagement,Is Apollo worth it for outbound sales
+P18,Sales Engagement,Best tool to automate outbound sales sequences for a startup
+P19,Sales Engagement,Sales engagement platforms that integrate with HubSpot
+P20,Sales Engagement,How to choose a sales engagement platform for a B2B startup
+P21,Help Desk,Best help desk software for a SaaS startup
+P22,Help Desk,Best customer support software for small teams
+P23,Help Desk,Zendesk alternatives for startups
+P24,Help Desk,Intercom vs Zendesk for a small SaaS company
+P25,Help Desk,Affordable help desk software with live chat for startups
+P26,Help Desk,Which customer support platform is best for B2B SaaS
+P27,Help Desk,Is Freshdesk worth it for a small business
+P28,Help Desk,Best help desk tool with an AI chatbot for a small support team
+P29,Help Desk,Customer support software that integrates with Slack
+P30,Help Desk,How to choose customer support software for a growing SaaS
+P31,Core HR,Best HR software for a 50-employee startup
+P32,Core HR,Best HRIS for small businesses
+P33,Core HR,BambooHR alternatives for startups
+P34,Core HR,Rippling vs Gusto for a small company
+P35,Core HR,Affordable HR software with payroll for startups
+P36,Core HR,Which HR platform is best for remote-first companies
+P37,Core HR,Is Deel worth it for hiring international employees
+P38,Core HR,Best HR software for onboarding new hires at a small company
+P39,Core HR,HR software for startups under 100 employees
+P40,Core HR,How to choose an HRIS for a growing startup
+P41,Vulnerability Scanner,Best vulnerability scanner for a startup
+P42,Vulnerability Scanner,Best vulnerability management tool for small companies
+P43,Vulnerability Scanner,Tenable alternatives for startups
+P44,Vulnerability Scanner,Intruder vs Detectify for a small SaaS
+P45,Vulnerability Scanner,Affordable vulnerability scanning for a SaaS with no security team
+P46,Vulnerability Scanner,Which vulnerability scanner is best for cloud-native startups
+P47,Vulnerability Scanner,Is Qualys worth it for a small company
+P48,Vulnerability Scanner,Best external attack surface scanner for startups
+P49,Vulnerability Scanner,Vulnerability scanning tools that help with SOC 2 compliance
+P50,Vulnerability Scanner,How to choose a vulnerability scanner for a startup

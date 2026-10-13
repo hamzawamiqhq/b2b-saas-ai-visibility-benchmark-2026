@@ -1,0 +1,55 @@
+metric,engine,layer,category,num,den,rate,note
+brands named at least once,chatgpt,answer,all,39,94,0.4149,
+brands named at least once,claude,answer,all,45,94,0.4787,v1.4: recounted on answer text only (source cards and citation links excluded)
+brands named at least once,perplexity,answer,all,46,94,0.4894,v1.4: recounted on answer text only (source cards and citation links excluded)
+brands named by none of the 3 manual engines,chatgpt+claude+perplexity,answer,all,40,94,0.4255,v1.4: Claude and Perplexity recounted on answer text only
+brands named on none of 5 platforms,5 platforms,answer,all,32,94,0.3404,v1.4: Claude and Perplexity recounted on answer text only; tracker runs Sept 7-14 in the brand's own category
+brand-question pairs named,chatgpt,answer,all,200,940,0.2128,
+brand-question pairs own site retrieved,chatgpt,search results,all,177,940,0.1883,
+brand-question pairs own site cited,chatgpt,citations,all,77,940,0.0819,
+consulted domains on exactly one engine,chatgpt+claude+perplexity,consulted,all,673,940,0.716,
+consulted domains on all three engines,chatgpt+claude+perplexity,consulted,all,78,940,0.083,
+source type share: own vendor,chatgpt,consulted,all,177,1176,0.1505,unit: distinct prompt-domain incidences
+source type share: review ugc,chatgpt,consulted,all,76,1176,0.0646,unit: distinct prompt-domain incidences
+source type share: editorial,chatgpt,consulted,all,10,1176,0.0085,unit: distinct prompt-domain incidences
+source type share: institutional,chatgpt,consulted,all,32,1176,0.0272,unit: distinct prompt-domain incidences
+source type share: all other domains,chatgpt,consulted,all,881,1176,0.7491,unit: distinct prompt-domain incidences
+source type share: own vendor,claude,consulted,all,48,336,0.1429,unit: distinct prompt-domain incidences
+source type share: review ugc,claude,consulted,all,8,336,0.0238,unit: distinct prompt-domain incidences
+source type share: editorial,claude,consulted,all,4,336,0.0119,unit: distinct prompt-domain incidences
+source type share: institutional,claude,consulted,all,3,336,0.0089,unit: distinct prompt-domain incidences
+source type share: all other domains,claude,consulted,all,273,336,0.8125,unit: distinct prompt-domain incidences
+source type share: own vendor,perplexity,consulted,all,60,703,0.0853,unit: distinct prompt-domain incidences
+source type share: review ugc,perplexity,consulted,all,16,703,0.0228,unit: distinct prompt-domain incidences
+source type share: editorial,perplexity,consulted,all,4,703,0.0057,unit: distinct prompt-domain incidences
+source type share: institutional,perplexity,consulted,all,19,703,0.027,unit: distinct prompt-domain incidences
+source type share: all other domains,perplexity,consulted,all,604,703,0.8592,unit: distinct prompt-domain incidences
+source type share: own vendor,chatgpt,cited,all,77,251,0.3068,unit: distinct prompt-domain incidences
+source type share: review ugc,chatgpt,cited,all,9,251,0.0359,unit: distinct prompt-domain incidences
+source type share: editorial,chatgpt,cited,all,1,251,0.004,unit: distinct prompt-domain incidences
+source type share: institutional,chatgpt,cited,all,5,251,0.0199,unit: distinct prompt-domain incidences
+source type share: all other domains,chatgpt,cited,all,159,251,0.6335,unit: distinct prompt-domain incidences
+reddit.com present,chatgpt,consulted,Project Management,5,10,0.5,questions
+reddit.com present,chatgpt,cited,Project Management,0,10,0.0,questions
+reddit.com present,chatgpt,consulted,Sales Engagement,8,10,0.8,questions
+reddit.com present,chatgpt,cited,Sales Engagement,1,10,0.1,questions
+reddit.com present,chatgpt,consulted,Help Desk,2,10,0.2,questions
+reddit.com present,chatgpt,cited,Help Desk,0,10,0.0,questions
+reddit.com present,chatgpt,consulted,Core HR,5,10,0.5,questions
+reddit.com present,chatgpt,cited,Core HR,0,10,0.0,questions
+reddit.com present,chatgpt,consulted,Vulnerability Scanner,7,10,0.7,questions
+reddit.com present,chatgpt,cited,Vulnerability Scanner,0,10,0.0,questions
+reddit.com present,chatgpt,consulted,ALL,27,50,0.54,questions
+reddit.com present,chatgpt,cited,ALL,1,50,0.02,questions
+youtube.com present,chatgpt,consulted,Project Management,7,10,0.7,questions
+youtube.com present,chatgpt,cited,Project Management,0,10,0.0,questions
+youtube.com present,chatgpt,consulted,Sales Engagement,3,10,0.3,questions
+youtube.com present,chatgpt,cited,Sales Engagement,0,10,0.0,questions
+youtube.com present,chatgpt,consulted,Help Desk,1,10,0.1,questions
+youtube.com present,chatgpt,cited,Help Desk,0,10,0.0,questions
+youtube.com present,chatgpt,consulted,Core HR,8,10,0.8,questions
+youtube.com present,chatgpt,cited,Core HR,0,10,0.0,questions
+youtube.com present,chatgpt,consulted,Vulnerability Scanner,2,10,0.2,questions
+youtube.com present,chatgpt,cited,Vulnerability Scanner,0,10,0.0,questions
+youtube.com present,chatgpt,consulted,ALL,21,50,0.42,questions
+youtube.com present,chatgpt,cited,ALL,0,50,0.0,questions
