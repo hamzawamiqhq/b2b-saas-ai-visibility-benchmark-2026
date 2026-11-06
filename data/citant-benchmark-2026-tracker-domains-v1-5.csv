@@ -1,0 +1,49 @@
+project,categories,domain,class,retrieved_chats,retrievals,citations,citation_rate
+A,Project Management + Sales Engagement,apollo.io,Competitor,34,128,86,2.53
+A,Project Management + Sales Engagement,youtube.com,UGC,35,57,69,1.97
+A,Project Management + Sales Engagement,clickup.com,Competitor,17,65,44,2.59
+A,Project Management + Sales Engagement,hubspot.com,Competitor,18,75,37,2.06
+A,Project Management + Sales Engagement,asana.com,You,19,76,28,1.47
+A,Project Management + Sales Engagement,goodday.work,Corporate,15,15,28,1.87
+A,Project Management + Sales Engagement,stackfyi.com,Corporate,19,19,28,1.47
+A,Project Management + Sales Engagement,reddit.com,UGC,17,23,27,1.59
+A,Project Management + Sales Engagement,zapier.com,Corporate,17,17,26,1.53
+A,Project Management + Sales Engagement,taskrhino.ca,Corporate,7,7,25,3.57
+A,Project Management + Sales Engagement,zoominfo.com,Competitor,15,17,20,1.33
+A,Project Management + Sales Engagement,monday.com,Competitor,6,59,19,3.17
+A,Project Management + Sales Engagement,atlassian.com,Competitor,8,34,19,2.38
+A,Project Management + Sales Engagement,upliftgtm.com,Corporate,7,7,19,2.71
+A,Project Management + Sales Engagement,g2.com,UGC,14,38,18,1.29
+A,Project Management + Sales Engagement,meetergo.com,Corporate,3,3,18,6.00
+A,Project Management + Sales Engagement,linear.app,Competitor,9,35,17,1.89
+A,Project Management + Sales Engagement,revenueflow.com,Corporate,10,16,16,1.60
+B,Help Desk + Core HR,youtube.com,UGC,34,68,80,2.35
+B,Help Desk + Core HR,intercom.com,Competitor,21,122,64,3.05
+B,Help Desk + Core HR,valueaddvc.com,Reference,16,16,52,3.25
+B,Help Desk + Core HR,gusto.com,Competitor,26,129,48,1.85
+B,Help Desk + Core HR,getmacha.com,Corporate,27,30,47,1.74
+B,Help Desk + Core HR,reddit.com,UGC,22,23,39,1.77
+B,Help Desk + Core HR,zendesk.com,You,18,124,37,2.06
+B,Help Desk + Core HR,deel.com,Competitor,14,94,34,2.43
+B,Help Desk + Core HR,compono.com,Corporate,21,22,34,1.62
+B,Help Desk + Core HR,freshworks.com,Competitor,12,77,27,2.25
+B,Help Desk + Core HR,bamboohr.com,Competitor,16,64,26,1.63
+B,Help Desk + Core HR,rippling.com,Competitor,22,118,23,1.05
+B,Help Desk + Core HR,outsail.co,Corporate,10,10,20,2.00
+B,Help Desk + Core HR,usepylon.com,Corporate,7,7,17,2.43
+B,Help Desk + Core HR,kayako.com,Corporate,8,8,16,2.00
+B,Help Desk + Core HR,forbes.com,Editorial,16,16,15,0.94
+C,Vulnerability Scanner,detectify.com,Corporate,14,52,45,3.21
+C,Vulnerability Scanner,intruder.io,Competitor,19,58,39,2.05
+C,Vulnerability Scanner,owasp.org,Institutional,11,42,34,3.09
+C,Vulnerability Scanner,reddit.com,UGC,12,25,28,2.33
+C,Vulnerability Scanner,orca.security,Competitor,16,17,26,1.63
+C,Vulnerability Scanner,snyk.io,Corporate,7,33,23,3.29
+C,Vulnerability Scanner,g2.com,UGC,22,30,22,1.00
+C,Vulnerability Scanner,redcanary.com,Corporate,12,12,20,1.67
+C,Vulnerability Scanner,qualys.com,Corporate,8,47,17,2.13
+C,Vulnerability Scanner,tenable.com,You,6,31,17,2.83
+C,Vulnerability Scanner,beaglesecurity.com,Corporate,5,8,15,3.00
+C,Vulnerability Scanner,expertinsights.com,Reference,7,8,13,1.86
+C,Vulnerability Scanner,wiz.io,Competitor,8,31,12,1.50
+C,Vulnerability Scanner,oneclickcomply.com,Corporate,3,3,12,4.00

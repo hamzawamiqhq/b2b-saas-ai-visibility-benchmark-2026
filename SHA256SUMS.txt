@@ -1,0 +1,15 @@
+bfc053cf687baa639a701049d05128442104ada7ab8d5d0b9722cbb2c64898d2  citant-benchmark-2026-adjudication-v1-5.csv
+98bc2bae3bf097725a74cb60e02a8fd18038b0e2afe003c2c1867255c39c1a4f  citant-benchmark-2026-chatgpt-funnel-per-question-v1-5.csv
+602f6fb8574b9cbc378db1d39bf2e916d7018622ae6f7af16b1c646a93f9023f  citant-benchmark-2026-chatgpt-prompts-as-sent-v1-5.csv
+05477f94b8c1b358e6ea96a1be2e286ecd99d393232a5b96b07744bb3205dc90  citant-benchmark-2026-cited-domains-v1-5.csv
+e2dd111295311204a82aa79937218eb3e1b54e0d41f973d6c5b0b261fd2b5223  citant-benchmark-2026-claude-perplexity-recount-v1-4.csv
+68c3323ccfa1e438797a52e57a0c331d0f6006db95a02cc7487ce96971a7ae33  citant-benchmark-2026-data-dictionary-v1-5.csv
+a3304f645f2079643e5ed10226c169c5e73c5e9d174e17de842a42c415b0398d  citant-benchmark-2026-overlap-per-prompt-v1-5.csv
+f9ff57f929c921001d69ddc4d1bcd16d17e11cc0b656bd856dec4ff69791d8b0  citant-benchmark-2026-own-domains-v1-5.csv
+33afb381454e2224d8de71a0582b85fe373c2b3c0b93bd2780f26a80efe98158  citant-benchmark-2026-queries.csv
+009179f5056049b137e5f7f097f105e2a3a56a452946844fc3a1e1b69fd3f492  citant-benchmark-2026-results-aggregate-v1-5.csv
+a5f8485bf4d3b3d62831df177f993e04b7f360dfb20108a560c94a4cc06816c4  citant-benchmark-2026-source-domains-v1-5.csv
+088fcd7944511ca1ad801558b6f75618c3bc8d745cfb9ca69a9a016d0f8b0965  citant-benchmark-2026-summary-metrics-v1-5.csv
+39f0f8eb80fcb6e9a33948aa57cb15fbdf6e83495526198174c9b0dc488bd6ba  citant-benchmark-2026-tracker-domains-v1-5.csv
+20792ab05e0473acb4441998a5d19138163723a2b82f62cc3c9e528202d87992  citant-benchmark-2026-tracker-hand-reads-v1-3.csv
+20a0a94bc7a46f1fefc96160d09af170ff07b6eb182c8080023590885fd6fe67  citant-benchmark-2026-tracker-per-engine-v1-3.csv

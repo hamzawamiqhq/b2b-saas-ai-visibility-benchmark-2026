@@ -1,0 +1,106 @@
+brand,category,domain,basis,added_in
+Atlassian,Project Management,atlassian.com,website,v1.4 or earlier
+Asana,Project Management,asana.com,website,v1.4 or earlier
+Adobe Workfront,Project Management,business.adobe.com,website,v1.4 or earlier
+Smartsheet,Project Management,smartsheet.com,website,v1.4 or earlier
+monday.com,Project Management,monday.com,website,v1.4 or earlier
+ClickUp,Project Management,clickup.com,website,v1.4 or earlier
+Notion,Project Management,notion.com,website,v1.4 or earlier
+Notion,Project Management,notion.so,alias,v1.4 or earlier
+Airtable,Project Management,airtable.com,website,v1.4 or earlier
+Quickbase,Project Management,quickbase.com,website,v1.4 or earlier
+Wrike,Project Management,wrike.com,website,v1.4 or earlier
+Celoxis,Project Management,celoxis.com,website,v1.4 or earlier
+Zoho,Project Management,zoho.com,website,v1.4 or earlier
+Basecamp,Project Management,basecamp.com,website,v1.4 or earlier
+Linear,Project Management,linear.app,website,v1.4 or earlier
+Backlog,Project Management,nulab.com,website,v1.4 or earlier
+Teamwork,Project Management,teamwork.com,website,v1.4 or earlier
+Snovasys,Project Management,snovasys.com,website,v1.4 or earlier
+Float,Project Management,float.com,website,v1.4 or earlier
+Scoro,Project Management,scoro.com,website,v1.4 or earlier
+morningmate,Project Management,morningmate.com,website,v1.4 or earlier
+HubSpot,Sales Engagement,hubspot.com,website,v1.4 or earlier
+Salesforce,Sales Engagement,salesforce.com,website,v1.4 or earlier
+Apollo.io,Sales Engagement,apollo.io,website,v1.4 or earlier
+lemlist,Sales Engagement,lemlist.com,website,v1.4 or earlier
+ZoomInfo,Sales Engagement,zoominfo.com,website,v1.4 or earlier
+Gong,Sales Engagement,gong.io,website,v1.4 or earlier
+Nooks,Sales Engagement,nooks.ai,website,v1.4 or earlier
+Instantly,Sales Engagement,instantly.ai,website,v1.4 or earlier
+Close,Sales Engagement,close.com,website,v1.4 or earlier
+Close,Sales Engagement,close.io,alias,v1.4 or earlier
+Salesloft,Sales Engagement,salesloft.com,website,v1.4 or earlier
+Amplemarket,Sales Engagement,amplemarket.com,website,v1.4 or earlier
+ActiveCampaign,Sales Engagement,activecampaign.com,website,v1.4 or earlier
+Seismic,Sales Engagement,seismic.com,website,v1.4 or earlier
+Outreach,Sales Engagement,outreach.io,website,v1.4 or earlier
+Outreach,Sales Engagement,outreach.ai,alias,v1.5
+GetAccept,Sales Engagement,getaccept.com,website,v1.4 or earlier
+Saleshandy,Sales Engagement,saleshandy.com,website,v1.4 or earlier
+VanillaSoft,Sales Engagement,vanillasoft.com,website,v1.4 or earlier
+Revenue Grid,Sales Engagement,revenuegrid.com,website,v1.4 or earlier
+Lusha,Sales Engagement,lusha.com,website,v1.4 or earlier
+Salestarget,Sales Engagement,salestarget.ai,website,v1.4 or earlier
+Zendesk,Help Desk,zendesk.com,website,v1.4 or earlier
+Zendesk,Help Desk,zendesk.nl,alias,v1.5
+Freshworks,Help Desk,freshworks.com,website,v1.4 or earlier
+Freshworks,Help Desk,freshdesk.com,alias,v1.5
+HubSpot,Help Desk,hubspot.com,website,v1.4 or earlier
+ServiceNow,Help Desk,servicenow.com,website,v1.4 or earlier
+Intercom,Help Desk,intercom.com,website,v1.4 or earlier
+Intercom,Help Desk,fin.ai,alias,v1.5
+Intercom,Help Desk,intercom.help,alias,v1.5
+Atera,Help Desk,atera.com,website,v1.4 or earlier
+Syncfusion,Help Desk,syncfusion.com,website,v1.4 or earlier
+Front,Help Desk,frontapp.com,website,v1.4 or earlier
+Front,Help Desk,front.com,alias,v1.4 or earlier
+Kustomer,Help Desk,kustomer.com,website,v1.4 or earlier
+Sprinklr,Help Desk,sprinklr.com,website,v1.4 or earlier
+Gorgias,Help Desk,gorgias.com,website,v1.4 or earlier
+Gladly,Help Desk,gladly.ai,website,v1.4 or earlier
+Gladly,Help Desk,gladly.com,alias,v1.4 or earlier
+Connecteam,Help Desk,connecteam.com,website,v1.4 or earlier
+SAP,Help Desk,sap.com,website,v1.4 or earlier
+SysAid,Help Desk,sysaid.com,website,v1.4 or earlier
+EngageBay,Help Desk,engagebay.com,website,v1.4 or earlier
+RingCentral,Help Desk,ringcentral.com,website,v1.4 or earlier
+Capacity,Help Desk,capacity.com,website,v1.4 or earlier
+ADP,Core HR,adp.com,website,v1.4 or earlier
+Rippling,Core HR,rippling.com,website,v1.4 or earlier
+BambooHR,Core HR,bamboohr.com,website,v1.4 or earlier
+TriNet,Core HR,trinet.com,website,v1.4 or earlier
+Paylocity,Core HR,paylocity.com,website,v1.4 or earlier
+Gusto,Core HR,gusto.com,website,v1.4 or earlier
+HiBob,Core HR,hibob.com,website,v1.4 or earlier
+Keka,Core HR,keka.com,website,v1.4 or earlier
+Deel,Core HR,deel.com,website,v1.4 or earlier
+Deel,Core HR,letsdeel.com,alias,v1.5
+HROne,Core HR,hrone.cloud,website,v1.4 or earlier
+Workday,Core HR,workday.com,website,v1.4 or earlier
+UKG,Core HR,ukg.com,website,v1.4 or earlier
+greytHR,Core HR,greythr.com,website,v1.4 or earlier
+Remote,Core HR,remote.com,website,v1.4 or earlier
+Personio,Core HR,personio.com,website,v1.4 or earlier
+Justworks,Core HR,justworks.com,website,v1.4 or earlier
+Native Teams,Core HR,nativeteams.com,website,v1.4 or earlier
+Wiz,Vulnerability Scanner,wiz.io,website,v1.4 or earlier
+Aikido Security,Vulnerability Scanner,aikido.dev,website,v1.4 or earlier
+CrowdStrike,Vulnerability Scanner,crowdstrike.com,website,v1.4 or earlier
+Orca Security,Vulnerability Scanner,orca.security,website,v1.4 or earlier
+Tenable,Vulnerability Scanner,tenable.com,website,v1.4 or earlier
+Tenable,Vulnerability Scanner,tenable.io,alias,v1.4 or earlier
+Astra Security,Vulnerability Scanner,getastra.com,website,v1.4 or earlier
+Intruder,Vulnerability Scanner,intruder.io,website,v1.4 or earlier
+PortSwigger,Vulnerability Scanner,portswigger.net,website,v1.4 or earlier
+Sysdig,Vulnerability Scanner,sysdig.com,website,v1.4 or earlier
+SentinelOne,Vulnerability Scanner,sentinelone.com,website,v1.4 or earlier
+Pentera,Vulnerability Scanner,pentera.io,website,v1.4 or earlier
+CyberSmart,Vulnerability Scanner,cybersmart.co.uk,website,v1.4 or earlier
+Edgescan,Vulnerability Scanner,edgescan.com,website,v1.4 or earlier
+Mend,Vulnerability Scanner,mend.io,website,v1.4 or earlier
+Harness,Vulnerability Scanner,harness.io,website,v1.4 or earlier
+Bitsight,Vulnerability Scanner,bitsight.com,website,v1.4 or earlier
+Pentest-Tools.com,Vulnerability Scanner,pentest-tools.com,website,v1.4 or earlier
+Indusface,Vulnerability Scanner,indusface.com,website,v1.4 or earlier
+Red Hat,Vulnerability Scanner,redhat.com,website,v1.4 or earlier

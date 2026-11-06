@@ -22,7 +22,7 @@ morningmate,morningmate.com,Project Management,Small,282,0,0,0,0,0,25,49,no,no,0
 HubSpot,hubspot.com,Sales Engagement,Leader,35966,7,6,6,3,3,93,93,no,no,0.6517,tracked,196,no,no
 Salesforce,salesforce.com,Sales Engagement,Leader,97196,6,4,4,3,0,89,19,no,no,0.3596,tracked,117,no,no
 Apollo.io,apollo.io,Sales Engagement,Leader,9822,9,8,8,6,6,95,95,no,no,0.8652,tracked,256,no,no
-lemlist,lemlist.com,Sales Engagement,Leader,2096,2,3,4,3,1,93,88,no,no,0.2584,tracked,73,no,no
+lemlist,lemlist.com,Sales Engagement,Leader,2096,2,3,4,2,1,93,88,no,no,0.2584,tracked,73,no,no
 ZoomInfo,zoominfo.com,Sales Engagement,Challenger,12898,2,4,1,2,0,,,no,no,0.2135,tracked,70,no,no
 Gong,gong.io,Sales Engagement,Challenger,6691,1,0,1,0,0,91,91,no,no,0.0449,tracked,13,no,no
 Nooks,nooks.ai,Sales Engagement,Challenger,1700,0,0,0,4,0,93,91,no,no,0.0112,tracked,5,yes,no
@@ -32,15 +32,15 @@ Salesloft,salesloft.com,Sales Engagement,Challenger,11172,7,8,8,4,2,93,93,no,no,
 Amplemarket,amplemarket.com,Sales Engagement,Challenger,666,0,1,1,6,0,93,93,no,no,0.0787,tracked,25,no,no
 ActiveCampaign,activecampaign.com,Sales Engagement,Challenger,14826,0,0,0,0,0,86,86,no,no,0.0112,tracked,5,yes,no
 Seismic,seismic.com,Sales Engagement,Small,3011,0,0,0,0,0,49,49,yes,no,0.0000,"tracked, zero mentions",0,yes,yes
-Outreach,outreach.io,Sales Engagement,Small,3577,9,7,8,1,2,98,98,yes,yes,0.9101,"tracked; common-word name, text matching runs high",276,no,no
+Outreach,outreach.io,Sales Engagement,Small,3577,9,7,8,2,2,98,98,yes,yes,0.9101,"tracked; common-word name, text matching runs high",276,no,no
 GetAccept,getaccept.com,Sales Engagement,Small,1267,0,0,0,0,0,91,91,no,no,0.0000,"tracked, zero mentions",0,yes,yes
 Saleshandy,saleshandy.com,Sales Engagement,Small,811,1,1,0,2,1,93,93,no,no,0.0225,tracked,11,no,no
 VanillaSoft,vanillasoft.com,Sales Engagement,Small,739,0,0,0,0,0,49,49,no,no,0.0000,"tracked, zero mentions",0,yes,yes
 Revenue Grid,revenuegrid.com,Sales Engagement,Small,594,0,0,0,0,0,91,49,no,no,0.0000,"tracked, zero mentions",0,yes,yes
 Lusha,lusha.com,Sales Engagement,Small,1668,0,0,0,0,0,86,89,no,no,0.0000,tracked,5,yes,no
 Salestarget,salestarget.ai,Sales Engagement,Small,97,0,0,0,0,0,100,100,no,no,0.0000,"tracked, zero mentions",0,yes,yes
-Zendesk,zendesk.com,Help Desk,Leader,7668,10,6,7,8,3,49,49,no,no,0.7179,tracked,185,no,no
-Freshworks,freshworks.com,Help Desk,Leader,8772,8,7,8,8,3,,,no,no,0.7179,tracked,194,no,no
+Zendesk,zendesk.com,Help Desk,Leader,7668,10,6,7,8,2,49,49,no,no,0.7179,tracked,185,no,no
+Freshworks,freshworks.com,Help Desk,Leader,8772,8,7,8,8,2,,,no,no,0.7179,tracked,194,no,no
 HubSpot,hubspot.com,Help Desk,Leader,35966,2,4,4,0,0,93,93,no,no,0.2051,tracked,63,no,no
 ServiceNow,servicenow.com,Help Desk,Leader,6876,0,0,0,0,0,88,19,no,no,0.0000,"tracked, zero mentions",0,yes,yes
 Intercom,intercom.com,Help Desk,Challenger,3911,10,7,8,9,8,91,91,no,no,0.7308,tracked,183,no,no
